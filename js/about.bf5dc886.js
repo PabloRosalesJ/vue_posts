@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(t,e,a){"use strict";a.r(e);var n=function(){var t=this,e=t.$createElement;t._self._c;return t._m(0)},s=[function(){var t=this,e=t.$createElement,a=t._self._c||e;return a("div",{staticClass:"about text-center"},[a("h1",[t._v("This is an about page")]),a("a",{attrs:{href:"https://github.com/PabloRosalesJ/",target:"blank"}},[t._v("🐱‍👤")])])}],r=a("2877"),l={},u=Object(r["a"])(l,n,s,!1,null,null,null);e["default"]=u.exports}}]);
+//# sourceMappingURL=about.bf5dc886.js.map
